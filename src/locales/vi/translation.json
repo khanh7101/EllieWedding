@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "brand": "Ellie Wedding",
+    "links": ["DỊCH VỤ", "BLOG"]
+  },
+  "hero": {
+    "title": "Biến Ngày Trọng Đại Của Bạn Thành Sự Hoàn Hảo",
+    "subtitle1": "Elite Wedding Planner là đơn vị chuyên thiết kế, lập kế hoạch và tổ chức đám cưới trọn gói. Chúng tôi là lựa chọn đáng tin cậy của những cặp đôi bận rộn mong muốn có một đội ngũ chuyên nghiệp thay mình quản lý toàn bộ quy trình - từ tư vấn địa điểm, lựa chọn đối tác đến điều phối chi tiết trong ngày cưới.",
+    "subtitle2": "Với cam kết tôn trọng ý kiến khách hàng, tối ưu ngân sách và đảm bảo chất lượng dịch vụ chất lượng, Elite đồng hành cùng bạn để tạo nên một lễ cưới hoàn hảo, trọn vẹn và mang đậm dấu ấn cá nhân.",
+    "cta": "Đặt lịch ngay"
+  },
+  "about": {
+    "title": "Gặp gỡ đội ngũ Ellie – Đơn vị tổ chức tiệc cưới hàng đầu",
+    "body": "Chúng tôi cung cấp dịch vụ tổ chức tiệc cưới cao cấp. Ellie chuyên tạo nên những đám cưới đẹp, đáng nhớ, phản ánh phong cách và cá tính riêng của bạn. Hãy để chúng tôi biến giấc mơ cưới của bạn thành hiện thực.",
+    "cta": "Liên hệ"
+  },
+  "services": {
+    "title": "Dịch Vụ Của Chúng Tôi",
+    "name": "Nhiếp ảnh gia",
+    "cta": "Xem nhiếp ảnh gia",
+    "portfolio": [
+      {
+        "couple": "Phuong & Nicholas",
+        "location": "Sài Gòn",
+        "theme": "Eastern Grace"
+      },
+      {
+        "couple": "Kim Anh & Chiến",
+        "location": "Hà Nội",
+        "theme": "Red Charisma"
+      },
+      {
+        "couple": "Châu & Gregory",
+        "location": "Đà Nẵng",
+        "theme": "Chic & Glam"
+      }
+    ],
+    "viewMore": "Xem thêm"
+  },
+  "testimonials": {
+    "title": "Love Stories",
+    "subtitle": "Lắng nghe từ những cặp đôi đã tin tưởng chúng tôi trong ngày trọng đại của họ",
+    "items": [
+      {
+        "name": "Sarah & James",
+        "text": "Working with Elite Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly. Our wedding was absolutely perfect!"
+      },
+      {
+        "name": "Roise & Ravi",
+        "text": "Chị cảm ơn team đã hỗ trợ dâu rể rất nhiệt tình trong suốt quá trình planning cho đến lúc thực hiện. Chị rất may mắn gặp được bọn em. Buổi tiệc diễn ra suôn sẻ và dâu cũng dc chăm sóc rất tốt. Tiếc là ko kịp ở lại lâu hơn để cảm ơn bọn em, nếu có dịp quay lại ĐN hẹn nhau đi cf các em nhé 💗💗💗"
+      },
+      {
+        "name": "A-Chau & Bradley",
+        "text": "We just did it quickly on the plane now actually - we sent a bit more than what you asked - the rest is for you girls as a little extra to say thank you so much for the support. We had an amazing wedding thank to you girls 🥰🥰 we hope you continue to support more couples on their special day!!"
+      }
+    ]
+  },
+  "packages": {
+    "title": "Wedding Packages",
+    "subtitle": "Choose the perfect package for your celebration, or let us create a custom solution",
+    "package1": {
+      "title": "Trọn gói tiệc cưới",
+      "desc": "Dành cho cặp đôi muốn được đồng hành từ A–Z.",
+      "recommended": "Đề xuất",
+      "before": {
+        "title": "Trước ngày cưới",
+        "items": [
+          "Tư vấn, lên kế hoạch chi tiết về phong cách trang trí, chương trình phù hợp ngân sách.",
+          "Cùng cặp đôi khảo sát địa điểm tổ chức.",
+          "Lên kịch bản chi tiết cho chương trình.",
+          "Điều phối thời gian giao nhận của các nhà cung cấp.",
+          "Thiết kế, in ấn thiệp mời và các chi tiết trang trí cần thiết."
+        ]
+      },
+      "during": {
+        "title": "Trong ngày cưới",
+        "items": [
+          "Làm việc trực tiếp với nhà hàng, khách sạn.",
+          "Đón khách, hướng dẫn theo yêu cầu gia đình.",
+          "Giám sát âm thanh, ánh sáng, timeline chương trình.",
+          "Điều phối MC, ban nhạc, make up, trang trí...",
+          "Làm việc với ekip quay phim, chụp ảnh và lo hậu cần.",
+          "Xử lý linh hoạt mọi vấn đề phát sinh."
+        ]
+      },
+      "after": {
+        "title": "Sau ngày cưới",
+        "items": [
+          "Làm việc với ekip quay phim, chụp ảnh cho các bản dựng cuối.",
+          "Hỗ trợ giải quyết các vấn đề phát sinh (nếu có).",
+          "Nghiệm thu và thanh toán các khoản còn lại với nhà cung cấp."
+        ]
+      }
+    },
+    "package2": {
+      "title": "Gói điều phối đám cưới",
+      "desc": "Phù hợp với cặp đôi đã tự lên kế hoạch chi tiết.",
+      "scope": {
+        "title": "Phạm vi công việc",
+        "items": [
+          "Tiếp nhận toàn bộ kế hoạch của cô dâu chú rể và rà soát.",
+          "Lập timeline chi tiết cho ngày cưới.",
+          "Điều phối các nhà cung cấp (trang trí, âm thanh, ánh sáng, quay phim, chụp ảnh...).",
+          "Hướng dẫn phù dâu, phù rể, gia đình hai bên.",
+          "Kiểm soát tiến độ chương trình, xử lý sự cố phát sinh.",
+          "Tập trung vào giai đoạn 1–2 tháng trước ngày cưới."
+        ]
+      },
+      "for": {
+        "title": "Dành cho cặp đôi",
+        "items": [
+          "Đã tự chọn địa điểm, đặt dịch vụ, thiết kế kịch bản.",
+          "Muốn tận hưởng ngày cưới trọn vẹn, không lo timeline.",
+          "Có người thân/bạn bè hỗ trợ nhưng vẫn muốn chuyên gia đảm bảo."
+        ]
+      }
+    },
+    "cta": "GET STARTED"
+  },
+  "pay": {
+    "title": "Thanh toán dễ dàng theo từng đợt với Ellie Pay",
+    "body": "Thanh toán chi phí cưới theo tiến độ phù hợp với bạn cùng Ellie Pay. Chia nhỏ khoản thanh toán trong hơn 24 tháng và dễ dàng thanh toán cho các nhà cung cấp ở bất kỳ đâu.",
+    "cta": "Đăng ký công cụ lập kế hoạch →"
+  },
+  "contact": {
+    "title": "Cùng Lên Kế Hoạch Cho Ngày Cưới Hoàn Hảo",
+    "subtitle": "Sẵn sàng bắt đầu lên kế hoạch? Hãy liên hệ với chúng tôi để được tư vấn miễn phí. Chúng tôi rất mong được lắng nghe ý tưởng của bạn và cùng bàn bạc cách biến nó thành hiện thực.",
+    "info": {
+      "phoneLabel": "Điện thoại",
+      "phoneValue": "(+84) 555 123 456",
+      "emailLabel": "Email",
+      "emailValue": "hello@elliewedding.com",
+      "consultLabel": "Tư vấn",
+      "consultValue": "Chỉ nhận lịch hẹn trước"
+    },
+    "form": {
+      "nameLabel": "Tên của bạn",
+      "namePlaceholder": "Ví dụ: Sarah & Michael",
+      "emailLabel": "Email",
+      "emailPlaceholder": "hello@example.com",
+      "phoneLabel": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại của bạn",
+      "dateLabel": "Ngày cưới dự kiến",
+      "datePlaceholder": "dd/mm/yyyy",
+      "guestCountLabel": "Số lượng khách",
+      "guestCountPlaceholder": "Ví dụ: 100",
+      "venueTypeLabel": "Indoor hay outdoor?",
+      "venueTypePlaceholder": "Chọn loại địa điểm",
+      "budgetLabel": "Ngân sách dự kiến",
+      "budgetPlaceholder": "Ví dụ: $10,000 - $15,000",
+      "venueLabel": "Bạn đã có địa điểm chưa? Cung cấp địa điểm nếu có",
+      "venuePlaceholder": "Nhập tên và địa chỉ địa điểm nếu bạn đã có...",
+      "visionLabel": "Chia sẻ về ý tưởng đám cưới của bạn",
+      "visionPlaceholder": "Hãy kể cho chúng tôi về đám cưới trong mơ của bạn...",
+      "submit": "Gửi lời nhắn"
+    }
+  },
+  "footer": {
+    "venues": ["Địa điểm", "Maldives", "Ấn Độ", "Dubai", "Paris"],
+    "services": ["Dịch vụ", "Nhiếp ảnh gia", "Trang trí", "Nhà thiết kế", "Chuyên viên trang điểm"],
+    "support": ["Hỗ trợ", "Về chúng tôi", "Tuyển dụng", "Liên hệ", "Điều khoản & Điều kiện"]
+  }
+}
