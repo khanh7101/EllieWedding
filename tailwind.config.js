@@ -9,9 +9,9 @@ export default {
       },
       fontFamily: {
         display: ['Playfair Display', 'Georgia', 'Times New Roman', 'serif'],
-        body: ['Poppins', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'sans-serif'],
-        whistling: ['TAN The Whistling', 'cursive', 'serif'],
-        title: ['Crimson Text', 'Times New Roman', 'Georgia', 'serif'],
+        body: ['Poppins', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
+        whistling: ['TAN The Whistling', 'Playfair Display', 'Georgia', 'cursive', 'serif'],
+        title: ['Crimson Text', 'Georgia', 'Times New Roman', 'serif'],
         elegant: ['Cinzel', 'Playfair Display', 'Georgia', 'serif'],
         refined: ['Lora', 'Georgia', 'serif'],
         soft: ['Crimson Text', 'Lora', 'Georgia', 'serif'],

@@ -1,6 +1,7 @@
+/* Import Google Fonts with display=swap for better performance */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Poppins:wght@300;400;500;600&family=Cormorant+Garamond:wght@400;500;600;700&family=Cinzel:wght@400;500;600;700&family=Lora:wght@400;500;600;700&family=Merriweather:wght@300;400;700;900&family=Crimson+Text:wght@400;600;700&display=swap');
 
-/* TAN The Whistling Font */
+/* TAN The Whistling Font - with fallback handling */
 @font-face {
   font-family: 'TAN The Whistling';
   src: url('./assets/fonts/TAN-The-Whistling.woff2') format('woff2'),
@@ -9,6 +10,14 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
+
+/* Fallback for TAN The Whistling if font file doesn't exist */
+@supports not (font-display: swap) {
+  @font-face {
+    font-family: 'TAN The Whistling';
+    src: local('Georgia'), local('serif');
+  }
 }
 
 @tailwind base;
