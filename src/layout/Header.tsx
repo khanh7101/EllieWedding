@@ -19,7 +19,7 @@ export function Header() {
       // Get header height dynamically
       const header = document.querySelector('header')
       const headerHeight = header ? header.offsetHeight : 80
-      
+
       // Calculate scroll position - use getBoundingClientRect for more accuracy
       const rect = section.getBoundingClientRect()
       const scrollTop = window.pageYOffset || document.documentElement.scrollTop
@@ -35,15 +35,15 @@ export function Header() {
 
   const handleNavClick = (label: string, index: number, e: React.MouseEvent) => {
     e.preventDefault()
-    
+
     // Map section names to IDs
     const sectionMap: { [key: number]: string } = {
       0: 'services', // Services
       // Add more sections here if needed
     }
-    
+
     const sectionId = sectionMap[index]
-    
+
     if (sectionId) {
       // If not on home page, navigate with hash
       if (location.pathname !== '/') {
@@ -67,7 +67,7 @@ export function Header() {
           <nav className="hidden items-center gap-8 text-[0.95rem] text-white md:flex">
             {navLinks.map((label, index) => {
               const isSectionLink = index === 0 // Services is a section link
-              
+
               return (
                 <NavLink
                   key={label}
@@ -98,7 +98,7 @@ export function Header() {
             to="/contact"
             className="flex h-9 w-[140px] flex-shrink-0 items-center justify-center rounded-full border border-white bg-transparent text-sm font-medium text-white backdrop-blur hover:text-ellie-gold hover:border-ellie-gold"
           >
-            {t('about.cta')}
+            {t('nav.cta')}
           </Link>
         </div>
       </div>

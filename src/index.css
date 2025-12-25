@@ -1,23 +1,31 @@
 /* Import Google Fonts with display=swap for better performance */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Poppins:wght@300;400;500;600&family=Cormorant+Garamond:wght@400;500;600;700&family=Cinzel:wght@400;500;600;700&family=Lora:wght@400;500;600;700&family=Merriweather:wght@300;400;700;900&family=Crimson+Text:wght@400;600;700&display=swap');
 
-/* TAN The Whistling Font - with fallback handling */
+/* Above The Beyond Font - Script variant */
 @font-face {
-  font-family: 'TAN The Whistling';
-  src: url('./assets/fonts/TAN-The-Whistling.woff2') format('woff2'),
-       url('./assets/fonts/TAN-The-Whistling.woff') format('woff'),
-       url('./assets/fonts/TAN-The-Whistling.ttf') format('truetype');
+  font-family: 'Above The Beyond';
+  src: url('./assets/fonts/Demo_Fonts/DEMO-atbscript-rg.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-/* Fallback for TAN The Whistling if font file doesn't exist */
-@supports not (font-display: swap) {
-  @font-face {
-    font-family: 'TAN The Whistling';
-    src: local('Georgia'), local('serif');
-  }
+/* Above The Beyond Font - Serif Regular variant */
+@font-face {
+  font-family: 'Above The Beyond Serif';
+  src: url('./assets/fonts/Demo_Fonts/DEMO-atbserif-rg.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Above The Beyond Font - Serif Italic variant */
+@font-face {
+  font-family: 'Above The Beyond Serif';
+  src: url('./assets/fonts/Demo_Fonts/DEMO-atbserif-it.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
 }
 
 @tailwind base;

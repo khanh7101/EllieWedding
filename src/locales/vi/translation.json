@@ -1,41 +1,45 @@
 {
   "nav": {
     "brand": "Ellie Wedding",
-    "links": ["DỊCH VỤ", "BLOG"]
+    "links": [
+      "DỊCH VỤ",
+      "BLOG"
+    ],
+    "cta": "Liên hệ"
   },
   "hero": {
     "title": "Biến Ngày Trọng Đại Của Bạn Thành Sự Hoàn Hảo",
-    "subtitle1": "Elite Wedding Planner là đơn vị chuyên thiết kế, lập kế hoạch và tổ chức đám cưới trọn gói. Chúng tôi là lựa chọn đáng tin cậy của những cặp đôi bận rộn mong muốn có một đội ngũ chuyên nghiệp thay mình quản lý toàn bộ quy trình - từ tư vấn địa điểm, lựa chọn đối tác đến điều phối chi tiết trong ngày cưới.",
-    "subtitle2": "Với cam kết tôn trọng ý kiến khách hàng, tối ưu ngân sách và đảm bảo chất lượng dịch vụ chất lượng, Elite đồng hành cùng bạn để tạo nên một lễ cưới hoàn hảo, trọn vẹn và mang đậm dấu ấn cá nhân.",
+    "subtitle": "Hãy đảm bảo từng chi tiết trong đám cưới cổ tích của bạn đều hoàn hảo.",
     "cta": "Đặt lịch ngay"
   },
   "about": {
-    "title": "Gặp gỡ đội ngũ Ellie – Đơn vị tổ chức tiệc cưới hàng đầu",
-    "body": "Chúng tôi cung cấp dịch vụ tổ chức tiệc cưới cao cấp. Ellie chuyên tạo nên những đám cưới đẹp, đáng nhớ, phản ánh phong cách và cá tính riêng của bạn. Hãy để chúng tôi biến giấc mơ cưới của bạn thành hiện thực.",
-    "cta": "Liên hệ"
+    "title": "Ensure every detail of your fairytale wedding is perfect.",
+    "body1": "Elite Wedding Planner là đơn vị chuyên thiết kế, lập kế hoạch và tổ chức đám cưới trọn gói. Chúng tôi là lựa chọn đáng tin cậy của những cặp đôi bận rộn mong muốn có một đội ngũ chuyên nghiệp thay mình quản lý toàn bộ quy trình - từ tư vấn địa điểm, lựa chọn đối tác đến điều phối chi tiết trong ngày cưới.",
+    "body2": "Với cam kết tôn trọng ý kiến khách hàng, tối ưu ngân sách và đảm bảo chất lượng dịch vụ chất lượng, Elite đồng hành cùng bạn để tạo nên một lễ cưới hoàn hảo, trọn vẹn và mang đậm dấu ấn cá nhân.",
+    "cta": "Đặt Lịch Ngay"
+  },
+  "team": {
+    "title": "Gặp gỡ Đội ngũ Ellie",
+    "subtitle": "Đơn vị tổ chức tiệc cưới hàng đầu",
+    "body": "Chúng tôi cung cấp dịch vụ tổ chức tiệc cưới cao cấp.\nEllie chuyên tạo nên những đám cưới đẹp, đáng nhớ, phản ánh phong cách và cá tính riêng của bạn. Hãy để chúng tôi biến giấc mơ cưới của bạn thành hiện thực.",
+    "cta": "Liên Hệ"
   },
   "services": {
     "title": "Dịch Vụ Của Chúng Tôi",
-    "name": "Nhiếp ảnh gia",
-    "cta": "Xem nhiếp ảnh gia",
-    "portfolio": [
+    "items": [
       {
-        "couple": "Phuong & Nicholas",
-        "location": "Sài Gòn",
-        "theme": "Eastern Grace"
+        "title": "Photographers",
+        "subtitle": "find your look"
       },
       {
-        "couple": "Kim Anh & Chiến",
-        "location": "Hà Nội",
-        "theme": "Red Charisma"
+        "title": "Photographers",
+        "subtitle": "find your look"
       },
       {
-        "couple": "Châu & Gregory",
-        "location": "Đà Nẵng",
-        "theme": "Chic & Glam"
+        "title": "Photographers",
+        "subtitle": "find your look"
       }
-    ],
-    "viewMore": "Xem thêm"
+    ]
   },
   "testimonials": {
     "title": "Love Stories",
@@ -43,25 +47,23 @@
     "items": [
       {
         "name": "Sarah & James",
-        "text": "Working with Elite Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly. Our wedding was absolutely perfect!"
+        "text": "\"Working with Elite Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly. Our wedding was absolutely perfect!\""
       },
       {
         "name": "Roise & Ravi",
-        "text": "Chị cảm ơn team đã hỗ trợ dâu rể rất nhiệt tình trong suốt quá trình planning cho đến lúc thực hiện. Chị rất may mắn gặp được bọn em. Buổi tiệc diễn ra suôn sẻ và dâu cũng dc chăm sóc rất tốt. Tiếc là ko kịp ở lại lâu hơn để cảm ơn bọn em, nếu có dịp quay lại ĐN hẹn nhau đi cf các em nhé 💗💗💗"
+        "text": "\"Chị cảm ơn team đã hỗ trợ dâu rể rất nhiệt tình trong suốt quá trình planning cho đến lúc thực hiện. Chị rất may mắn gặp được bọn em. Buổi tiệc diễn ra suôn sẻ và dâu cũng dc chăm sóc rất tốt. Tiếc là ko kịp ở lại lâu hơn để cảm ơn bọn em, nếu có dịp quay lại ĐN hẹn nhau đi cf các em nhé 💗💗💗\""
       },
       {
         "name": "A-Chau & Bradley",
-        "text": "We just did it quickly on the plane now actually - we sent a bit more than what you asked - the rest is for you girls as a little extra to say thank you so much for the support. We had an amazing wedding thank to you girls 🥰🥰 we hope you continue to support more couples on their special day!!"
+        "text": "\"We just did it quickly on the plane now actually - we sent a bit more than what you asked - the rest is for you girls as a little extra to say thank you so much for the support. We had an amazing wedding thank to you girls 🥰🥰 we hope you continue to support more couples on their special day!!\""
       }
     ]
   },
   "packages": {
     "title": "Wedding Packages",
-    "subtitle": "Choose the perfect package for your celebration, or let us create a custom solution",
     "package1": {
       "title": "Trọn gói tiệc cưới",
       "desc": "Dành cho cặp đôi muốn được đồng hành từ A–Z.",
-      "recommended": "Đề xuất",
       "before": {
         "title": "Trước ngày cưới",
         "items": [
@@ -88,7 +90,7 @@
         "items": [
           "Làm việc với ekip quay phim, chụp ảnh cho các bản dựng cuối.",
           "Hỗ trợ giải quyết các vấn đề phát sinh (nếu có).",
-          "Nghiệm thu và thanh toán các khoản còn lại với nhà cung cấp."
+          "Nghiem thu và thanh toán các khoản còn lại với nhà cung cấp."
         ]
       }
     },
@@ -115,12 +117,12 @@
         ]
       }
     },
-    "cta": "GET STARTED"
+    "cta": "Chose plan"
   },
-  "pay": {
-    "title": "Thanh toán dễ dàng theo từng đợt với Ellie Pay",
-    "body": "Thanh toán chi phí cưới theo tiến độ phù hợp với bạn cùng Ellie Pay. Chia nhỏ khoản thanh toán trong hơn 24 tháng và dễ dàng thanh toán cho các nhà cung cấp ở bất kỳ đâu.",
-    "cta": "Đăng ký công cụ lập kế hoạch →"
+  "bottomCta": {
+    "title": "Thực hiện Đám cưới trong mơ\nvới Đội ngũ của chúng tôi",
+    "subtitle": "Đồng hành với cặp đôi trong ngày trọng đại",
+    "button": "Đặt Lịch Ngay"
   },
   "contact": {
     "title": "Cùng Lên Kế Hoạch Cho Ngày Cưới Hoàn Hảo",
@@ -156,8 +158,26 @@
     }
   },
   "footer": {
-    "venues": ["Địa điểm", "Maldives", "Ấn Độ", "Dubai", "Paris"],
-    "services": ["Dịch vụ", "Nhiếp ảnh gia", "Trang trí", "Nhà thiết kế", "Chuyên viên trang điểm"],
-    "support": ["Hỗ trợ", "Về chúng tôi", "Tuyển dụng", "Liên hệ", "Điều khoản & Điều kiện"]
+    "venues": [
+      "Venues",
+      "Maldives",
+      "India",
+      "Dubai",
+      "Paris"
+    ],
+    "services": [
+      "Services",
+      "Photographers",
+      "Decorations",
+      "Designers",
+      "Makeup Artists"
+    ],
+    "support": [
+      "Support",
+      "About Us",
+      "Careers",
+      "Contact Us",
+      "Terms & Conditions"
+    ]
   }
 }

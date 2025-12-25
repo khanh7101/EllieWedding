@@ -1,164 +1,183 @@
 {
   "nav": {
     "brand": "Ellie Wedding",
-    "links": ["SERVICES", "BLOG"]
+    "links": [
+      "SERVICES",
+      "BLOG"
+    ],
+    "cta": "Contact Us"
   },
   "hero": {
-    "title": "Make your Dream Wedding With Us",
+    "title": "Turn Your Special Day into Perfection",
     "subtitle": "Ensure every detail of your fairytale wedding is perfect.",
-    "cta": "Book Now"
+    "cta": "Book a Consultation"
   },
   "about": {
-    "title": "Meet Ellie team, best in town wedding planner",
-    "body": "We provide the premier wedding planning service. We specialize in creating unforgettable and beautiful weddings that reflect your unique style and personality. Let us make your dream wedding a reality.",
+    "title": "Ensure every detail of your fairytale wedding is perfect.",
+    "body1": "Elite Wedding Planner specializes in designing, planning, and delivering full-service weddings. We are the trusted choice for busy couples who want a professional team to manage the entire process—from venue consultation and vendor selection to detailed coordination on the wedding day.",
+    "body2": "With a commitment to respecting our clients’ vision, optimizing budgets, and delivering high-quality services, Elite partners with you to create a flawless, meaningful wedding that reflects your unique personal style.",
+    "cta": "Book a Consultation"
+  },
+  "team": {
+    "title": "Meet the Ellie Team",
+    "subtitle": "A Leading Wedding Planning Company",
+    "body": "We provide premium wedding planning services.\nEllie specializes in creating beautiful, memorable weddings that reflect your unique style and personality. Let us turn your wedding dream into reality.",
     "cta": "Contact Us"
   },
   "services": {
     "title": "Our Services",
-    "name": "Photographers",
-    "cta": "See photographers",
-    "portfolio": [
+    "items": [
       {
-        "couple": "Phuong & Nicholas",
-        "location": "Sai Gon",
-        "theme": "Eastern Grace"
+        "title": "Photographers",
+        "subtitle": "Find your look"
       },
       {
-        "couple": "Kim Anh & Chiến",
-        "location": "Ha Noi",
-        "theme": "Red Charisma"
+        "title": "Photographers",
+        "subtitle": "Find your look"
       },
       {
-        "couple": "Châu & Gregory",
-        "location": "Da Nang",
-        "theme": "Chic & Glam"
+        "title": "Photographers",
+        "subtitle": "Find your look"
       }
-    ],
-    "viewMore": "View More"
+    ]
   },
   "testimonials": {
     "title": "Love Stories",
-    "subtitle": "Hear from couples who trusted us with their special day",
+    "subtitle": "Hear from couples who trusted us on their special day",
     "items": [
       {
         "name": "Sarah & James",
-        "text": "Working with Elite Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly. Our wedding was absolutely perfect!"
+        "text": "\"Working with Elite Wedding Planner was the best decision we made. They transformed our vision into reality and handled every detail flawlessly. Our wedding was absolutely perfect!\""
       },
       {
         "name": "Roise & Ravi",
-        "text": "Chị cảm ơn team đã hỗ trợ dâu rể rất nhiệt tình trong suốt quá trình planning cho đến lúc thực hiện. Chị rất may mắn gặp được bọn em. Buổi tiệc diễn ra suôn sẻ và dâu cũng dc chăm sóc rất tốt. Tiếc là ko kịp ở lại lâu hơn để cảm ơn bọn em, nếu có dịp quay lại ĐN hẹn nhau đi cf các em nhé 💗💗💗"
+        "text": "\"Thank you so much to the team for supporting us so enthusiastically throughout the planning process and execution. We were truly lucky to have found you. The event went smoothly, and the bride was taken great care of. It’s a pity we couldn’t stay longer to thank you in person—if we come back to Da Nang, let’s catch up for coffee 💗💗💗\""
       },
       {
         "name": "A-Chau & Bradley",
-        "text": "We just did it quickly on the plane now actually - we sent a bit more than what you asked - the rest is for you girls as a little extra to say thank you so much for the support. We had an amazing wedding thank to you girls 🥰🥰 we hope you continue to support more couples on their special day!!"
+        "text": "\"We just did it quickly on the plane actually—we sent a bit more than what you asked. The rest is a little extra to say thank you so much for all the support. We had an amazing wedding thanks to you girls 🥰🥰 We hope you continue supporting many more couples on their special day!\""
       }
     ]
   },
   "packages": {
     "title": "Wedding Packages",
-    "subtitle": "Choose the perfect package for your celebration, or let us create a custom solution",
     "package1": {
       "title": "Full Wedding Package",
-      "desc": "For couples who want full support from A to Z.",
-      "recommended": "Recommended",
+      "desc": "Perfect for couples who want full support from A to Z.",
       "before": {
-        "title": "Before the wedding",
+        "title": "Before the Wedding",
         "items": [
-          "Consultation and detailed planning for decoration style and program that fits your budget.",
-          "Survey venues together with the couple.",
-          "Create detailed script for the program.",
-          "Coordinate delivery schedules with vendors.",
-          "Design and print invitations and necessary decoration details."
+          "Consultation and detailed planning of decoration style and program within budget.",
+          "Venue scouting with the couple.",
+          "Creating a detailed event script and timeline.",
+          "Coordinating delivery schedules with all vendors.",
+          "Designing and printing invitations and necessary decorative details."
         ]
       },
       "during": {
-        "title": "On the wedding day",
+        "title": "On the Wedding Day",
         "items": [
-          "Work directly with restaurants and hotels.",
-          "Welcome guests and guide according to family requirements.",
-          "Supervise sound, lighting, and program timeline.",
-          "Coordinate MC, band, makeup, decoration...",
-          "Work with filming and photography teams and handle logistics.",
-          "Flexibly handle any issues that arise."
+          "Working directly with restaurants and hotels.",
+          "Welcoming and guiding guests according to family requests.",
+          "Supervising sound, lighting, and program timeline.",
+          "Coordinating MCs, bands, makeup artists, decorators, etc.",
+          "Working with photo and video teams and managing logistics.",
+          "Handling any unexpected issues flexibly and professionally."
         ]
       },
       "after": {
-        "title": "After the wedding",
+        "title": "After the Wedding",
         "items": [
-          "Work with filming and photography teams for final edits.",
-          "Support resolving any issues (if any).",
-          "Acceptance and payment of remaining amounts with vendors."
+          "Working with photo and video teams on final edits.",
+          "Supporting the resolution of any post-event issues (if any).",
+          "Final acceptance and payment settlement with vendors."
         ]
       }
     },
     "package2": {
-      "title": "Wedding Coordination Package",
-      "desc": "Suitable for couples who have already planned in detail.",
+      "title": "Wedding Day Coordination Package",
+      "desc": "Ideal for couples who have already planned most details themselves.",
       "scope": {
-        "title": "Scope of work",
+        "title": "Scope of Work",
         "items": [
-          "Receive and review the couple's complete plan.",
-          "Create detailed timeline for the wedding day.",
-          "Coordinate vendors (decoration, sound, lighting, filming, photography...).",
-          "Guide bridesmaids, groomsmen, and both families.",
-          "Monitor program progress and handle any incidents.",
-          "Focus on the 1-2 months before the wedding day."
+          "Receiving and reviewing the couple’s full wedding plan.",
+          "Creating a detailed timeline for the wedding day.",
+          "Coordinating all vendors (decor, sound, lighting, photo, video, etc.).",
+          "Guiding bridesmaids, groomsmen, and both families.",
+          "Controlling the event flow and handling unexpected issues.",
+          "Focused mainly on the final 1–2 months before the wedding."
         ]
       },
       "for": {
-        "title": "For couples",
+        "title": "For Couples Who",
         "items": [
-          "Who have already chosen venues, booked services, and designed scripts.",
-          "Want to fully enjoy the wedding day without worrying about timeline.",
-          "Have family/friends support but still want professionals to ensure everything."
+          "Have already chosen a venue, booked services, and designed the program.",
+          "Want to fully enjoy their wedding day without worrying about timing.",
+          "Have support from family/friends but still want professional assurance."
         ]
       }
     },
-    "cta": "GET STARTED"
+    "cta": "Choose Plan"
   },
-  "pay": {
-    "title": "Easily pay in instalments with Ellie Pay",
-    "body": "Pay for your wedding at a pace that suits you with Ellie Pay. Spread your payments across 24+ months, with the ability to pay your suppliers from wherever you may be.",
-    "cta": "Sign up for planning tools →"
+  "bottomCta": {
+    "title": "Create Your Dream Wedding\nwith Our Team",
+    "subtitle": "Supporting couples on their most important day",
+    "button": "Book a Consultation"
   },
   "contact": {
-    "title": "Let's Plan Your Perfect Day",
-    "subtitle": "Ready to start planning? Get in touch with us today for a complimentary consultation. We'd love to hear about your vision and discuss how we can bring it to life.",
+    "title": "Let’s Plan Your Perfect Wedding",
+    "subtitle": "Ready to start planning? Contact us for a free consultation. We look forward to hearing your ideas and discussing how to bring them to life.",
     "info": {
       "phoneLabel": "Phone",
-      "phoneValue": "(555) 123-4567",
+      "phoneValue": "(+84) 555 123 456",
       "emailLabel": "Email",
       "emailValue": "hello@elliewedding.com",
-      "consultLabel": "Consultations",
+      "consultLabel": "Consultation",
       "consultValue": "By appointment only"
     },
     "form": {
       "nameLabel": "Your Name",
-      "namePlaceholder": "Sarah & Michael",
-      "emailLabel": "Email Address",
+      "namePlaceholder": "Example: Sarah & Michael",
+      "emailLabel": "Email",
       "emailPlaceholder": "hello@example.com",
       "phoneLabel": "Phone Number",
-      "phonePlaceholder": "(+84) 912 345 678",
-      "dateLabel": "Wedding Date",
+      "phonePlaceholder": "Enter your phone number",
+      "dateLabel": "Expected Wedding Date",
       "datePlaceholder": "dd/mm/yyyy",
-      "guestCountLabel": "Number of Guests",
-      "guestCountPlaceholder": "e.g., 100",
+      "guestCountLabel": "Guest Count",
+      "guestCountPlaceholder": "Example: 100",
       "venueTypeLabel": "Indoor or Outdoor?",
       "venueTypePlaceholder": "Select venue type",
-      "budgetLabel": "Expected Budget",
-      "budgetPlaceholder": "e.g., $10,000 - $15,000",
-      "venueLabel": "Do you have a venue? Provide venue if available",
-      "venuePlaceholder": "Enter venue name and address if you have one...",
-      "visionLabel": "Tell us about your vision",
-      "visionPlaceholder": "Share your wedding dreams with us...",
+      "budgetLabel": "Estimated Budget",
+      "budgetPlaceholder": "Example: $10,000 - $15,000",
+      "venueLabel": "Do you already have a venue? Provide details if yes",
+      "venuePlaceholder": "Enter venue name and address if available...",
+      "visionLabel": "Share Your Wedding Vision",
+      "visionPlaceholder": "Tell us about your dream wedding...",
       "submit": "Send Message"
     }
   },
   "footer": {
-    "venues": ["Venues", "Maldives", "India", "Dubai", "Paris"],
-    "services": ["Services", "Photographers", "Decorations", "Designers", "Makeup Artists"],
-    "support": ["Support", "About Us", "Careers", "Contact Us", "Terms & Conditions"]
+    "venues": [
+      "Venues",
+      "Maldives",
+      "India",
+      "Dubai",
+      "Paris"
+    ],
+    "services": [
+      "Services",
+      "Photographers",
+      "Decorations",
+      "Designers",
+      "Makeup Artists"
+    ],
+    "support": [
+      "Support",
+      "About Us",
+      "Careers",
+      "Contact Us",
+      "Terms & Conditions"
+    ]
   }
 }
-
-
